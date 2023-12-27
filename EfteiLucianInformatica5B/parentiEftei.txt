@@ -1,0 +1,4 @@
+Paiola	Giovanni	China	Cugino
+Mikeox	Long	USA	Figlio
+Finatti	Marco	Italia	Fratello
+Meta	Andreea	Nigeria	Madre
